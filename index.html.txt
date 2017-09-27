@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Alec McKinley</h1>
+
+<p>[firstname].E.[lastname] at gmail dawt com</p>
+
+</body>
+</html>
